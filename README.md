@@ -51,7 +51,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 ## Aperçu  
 
-L'application est en cours de développement, et des captures d'écran seront ajoutées ultérieurement sur mon [[portfolio|https://kreezeg123.github.io/portfolio/]].  
+L'application est en cours de développement, et des captures d'écran seront ajoutées ultérieurement sur mon [portfolio](https://kreezeg123.github.io/portfolio/).  
 
 ## Contributions  
 
